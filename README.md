@@ -8,7 +8,7 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+Used for getItem method: https://stackoverflow.com/q/29665418
 
 ## Verbal Collaboration
 
